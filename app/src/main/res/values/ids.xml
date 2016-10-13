@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <item type="id" name="start_init_caffe"/>
+  <item type="id" name="finish_init_caffe"/>
+  <item type="id" name="start_test_ExtracFea"/>
+  <item type="id" name="finish_test_ExtractFea"/>
+  <item type="id" name="start_test_ComputeSimCos"/>
+  <item type="id" name="finish_test_ComputeSimCos"/>
+</resources>
